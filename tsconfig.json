@@ -1,0 +1,8 @@
+{
+  "include": ["src"],
+  "compilerOptions": {
+    "outDir": "build",
+    "target": "ES6", // 어떤 자바스크립트로 컴파일할지 알려준다.
+    "lib": ["ES6", "DOM"]
+  }
+}
